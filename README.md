@@ -6,9 +6,9 @@ Missão da organização será facilitar serviços de turismo, organizando hospe
 
 A entrega será um pacote com hospedagem, visitas a locais estratégicos e interessantes.
 
-Convite estendido para todos interessados e apaixonados por turismo.
+Convite para se tornar membro estendido para todos interessados e apaixonados por turismo por meio da compra do Token.
 
-Token de governança para os apaixonados que já são experientes na àrea do turismo.
+Token de governança para os apaixonados que já são experientes na área do turismo.
 
 O Token será Turismodao.
 
